@@ -1,0 +1,5 @@
+vendor
+tmp
+notes.json
+.idea
+.env
